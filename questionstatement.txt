@@ -1,0 +1,86 @@
+3. Task Management Console Application
+You are developing a console-based Java application to assist users in managing their tasks. The application should provide a text-based menu to the user and perform different types of task management operations based on the user's choice.
+Here are the functionalities the application should provide:
+Case1: Display a list of all tasks along with their details, such as task name, due date, and status.
+Case2: Prompt the user to enter details for a new task, including the task name, due date, and status. Add the task to the task list.
+Case3:Given a task name, update its status (e.g., from "To Do" to "Completed").
+Case4:Given a task name, remove the task from the task list.
+Case5:The user should be able to exit the application.
+The main method should display a menu to the user with the above options, and depending on the user's choice, call the respective functionality.
+Console Interaction:
+At startup, the program should print the menu of operations.
+After each operation, the menu should be displayed again, giving the user the ability to choose the next operation or exit.
+If the user selects an option from 1 to 4, prompt the user for additional input (e.g., task details, task name) and display the result.
+If the user selects option 5, print the message "Goodbye!" and exit the application.
+If the user selects a choice other than the five choices given, provide the message "Invalid choice. Please select a valid option." to the user. Ensure that any input errors are handled gracefully with appropriate feedback to the user.
+Your task is to complete the following file:
+./src/main/java/TaskManagementApp.java
+Sample Input and output
+Task Management Console Application:
+1. List Tasks
+2. Add Task
+3. Update Task Status
+4. Delete Task
+5. Exit
+Enter your choice (1-5): 2
+Enter task name: Complete Project
+Enter due date (yyyy-mm-dd): 2024-02-15
+Enter task status: To Do
+Task 'Complete Project' added successfully.
+
+Task Management Console Application:
+1. List Tasks
+2. Add Task
+3. Update Task Status
+4. Delete Task
+5. Exit
+
+Enter your choice (1-5): 1
+List of Tasks:
+1. Task: Complete Project | Due Date: 2024-02-15 | Status: To Do
+Task Management Console Application:
+1. List Tasks
+2. Add Task
+3. Update Task Status
+4. Delete Task
+5. Exit
+Enter your choice (1-5): 3
+Enter task name to update status: Complete Project
+Enter new task status: In Progress
+Task status updated successfully.
+
+Task Management Console Application:
+1. List Tasks
+2. Add Task
+3. Update Task Status
+4. Delete Task
+5. Exit
+Enter your choice (1-5): 1
+List of Tasks:
+1. Task: Complete Project | Due Date: 2024-02-15 | Status: In Progress
+Task Management Console Application:
+1. List Tasks
+2. Add Task
+3. Update Task Status
+4. Delete Task
+5. Exit
+Enter your choice (1-5): 4
+Enter task name to delete: Complete Project
+Task 'Complete Project' deleted successfully.
+
+Task Management Console Application:
+1. List Tasks
+2. Add Task
+3. Update Task Status
+4. Delete Task
+5. Exit
+Enter your choice (1-5): 1
+No tasks available.
+Task Management Console Application:
+1. List Tasks
+2. Add Task
+3. Update Task Status
+4. Delete Task
+5. Exit
+Enter your choice (1-5): 5
+Goodbye!

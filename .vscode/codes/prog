@@ -1,0 +1,36 @@
+import java.util.*;
+class Student{
+    int rollno;
+    String name;
+    double fee;
+
+public Student(int rollno,String name, double fee)
+{
+    this.rollno = rollno;
+    this.name = name;
+    this.fee = fee;
+}
+public int getRollno(){
+    return rollno;
+}
+public String getName(){
+    return name;
+}
+public double getFee(){
+    return fee;
+}
+
+}
+public class thisToken {
+    public static void main(String args[]) {
+        Scanner s = new Scanner(System.in);
+        System.out.print("enter details");
+        int rollno = s.nextInt();
+        String name = s.nextLine();
+        double fee = s.nextDouble();
+        Student c = new Student(rollno, name, fee);
+        System.out.print(c.getRollno());
+        System.out.println(c.getName());
+        System.out.println(c.getFee());
+    }
+}

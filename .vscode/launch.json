@@ -1,0 +1,424 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Lamba",
+            "request": "launch",
+            "mainClass": "Lamba",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "BankAcc",
+            "request": "launch",
+            "mainClass": "practice.ArrayListCreation.BankAcc",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "TaskManagement",
+            "request": "launch",
+            "mainClass": "Practiceques.ques3.TaskManagement",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Subcription",
+            "request": "launch",
+            "mainClass": "PRACTICEQUESTIONS.Subcription",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "SetClas",
+            "request": "launch",
+            "mainClass": "PRACTICEQUESTIONS.SetClas",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Alarm",
+            "request": "launch",
+            "mainClass": "PRACTICEQUESTIONS.Alarm",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "RecipePlanner",
+            "request": "launch",
+            "mainClass": "PRACTICEQUESTIONS.RecipePlanner",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "RecipePlanner",
+            "request": "launch",
+            "mainClass": "RecipePlanner",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ProgramMainp",
+            "request": "launch",
+            "mainClass": "Comparable.ProgramMainp",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "MainProgram",
+            "request": "launch",
+            "mainClass": "Comparable.MainProgram",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "MainPro",
+            "request": "launch",
+            "mainClass": "Comparable.MainPro",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main98",
+            "request": "launch",
+            "mainClass": "collections.Main98",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "HashMap1",
+            "request": "launch",
+            "mainClass": "collections.HashMap1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Set12",
+            "request": "launch",
+            "mainClass": "collections.Set12",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "HashSet1",
+            "request": "launch",
+            "mainClass": "collections.HashSet1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main7",
+            "request": "launch",
+            "mainClass": "collections.exception.Main7",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main8",
+            "request": "launch",
+            "mainClass": "collections.exception.Main8",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main9",
+            "request": "launch",
+            "mainClass": "collections.exception.Main9",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main4",
+            "request": "launch",
+            "mainClass": "collections.Main4",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main3",
+            "request": "launch",
+            "mainClass": "collections.Main3",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main1",
+            "request": "launch",
+            "mainClass": "collections.Main1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList1",
+            "request": "launch",
+            "mainClass": "collections.ArrayList1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList",
+            "request": "launch",
+            "mainClass": "collections.ArrayList",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Unboxing12",
+            "request": "launch",
+            "mainClass": "codes.Unboxing12",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Interface1",
+            "request": "launch",
+            "mainClass": "codes.Abstract.Interface1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Abstract1",
+            "request": "launch",
+            "mainClass": "codes.Abstract.Abstract1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "CovariantReturn",
+            "request": "launch",
+            "mainClass": "codes.overriding.CovariantReturn",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Vehicle1",
+            "request": "launch",
+            "mainClass": "codes.overriding.Vehicle1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Multi",
+            "request": "launch",
+            "mainClass": "inhertance.Multi",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Data1",
+            "request": "launch",
+            "mainClass": "inhertance.Data1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Super12",
+            "request": "launch",
+            "mainClass": "inhertance.Super12",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Single1",
+            "request": "launch",
+            "mainClass": "inhertance.Single1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Overload",
+            "request": "launch",
+            "mainClass": "codes.methodoverloading.Overload",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Exp",
+            "request": "launch",
+            "mainClass": "codes.Exp",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Employeedemo",
+            "request": "launch",
+            "mainClass": "codes.Employeedemo",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "codes.Employee",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "exp",
+            "request": "launch",
+            "mainClass": "codes.exp",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "progr",
+            "request": "launch",
+            "mainClass": "codes.progr",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "arrCop",
+            "request": "launch",
+            "mainClass": "codes.arrCop",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "staticProg",
+            "request": "launch",
+            "mainClass": "codes.staticProg",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "pro",
+            "request": "launch",
+            "mainClass": "codes.pro",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "thisToken",
+            "request": "launch",
+            "mainClass": "thisToken",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "thiss",
+            "request": "launch",
+            "mainClass": "thiss",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Address",
+            "request": "launch",
+            "mainClass": "Address",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": ""
+        },
+        {
+            "name": "Test App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Test App",
+            "type": "pwa-node"
+        },
+        {
+            "name": "Submit App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Submit App",
+            "type": "pwa-node"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-FirstprojectApplication<firstproject>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ltimindtree.firstproject.FirstprojectApplication",
+            "projectName": "firstproject",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-UserApplication<user>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.user.UserApplication",
+            "projectName": "user",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-StudentApplication<student>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ltimindtree.student.StudentApplication",
+            "projectName": "student",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Employee1Application<employee1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.employee1.Employee1Application",
+            "projectName": "employee1",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-PersonApplication<person>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.person.PersonApplication",
+            "projectName": "person",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-EmpManytoOneApplication<emp_manyto_one>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.emp_manyto_one.EmpManytoOneApplication",
+            "projectName": "emp_manyto_one",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-BidirectionalApplication<bidirectional>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.bidirectional.BidirectionalApplication",
+            "projectName": "bidirectional",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

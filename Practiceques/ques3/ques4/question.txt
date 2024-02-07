@@ -1,0 +1,57 @@
+4. Library System Console Application
+You are tasked with developing a console-based Java application for a library system. The program should demonstrate the use of access specifiers (public, private, and protected) to protect data and methods.
+1.LibraryBook Class:
+• Create a LibraryBook class with the following fields and methods:
+• bookTitle: A private field of type String.
+• author: A private field of type String.
+• numPages: A private field of type int.
+• borrowed: A private field of type boolean, indicating whether the book is currently borrowed.
+• displayBookInfo(): A public method that prints the book title, author, number of pages, and whether it is borrowed.
+• borrowBook(): A public method that sets the borrowed field to true.
+• returnBook(): A public method that sets the borrowed field to false.
+2 LibraryMember Class:
+• Create a LibraryMember class with the following fields and methods:
+• memberName: A private field of type String.
+• booksBorrowed: A private field representing the number of books currently borrowed by the member.
+• maxBooksAllowed: A protected constant representing the maximum number of books a member can borrow.
+• displayMemberInfo(): A public method that prints the member's name and the number of books borrowed.
+• borrowBook(LibraryBook book): A public method that allows a member to borrow a book if they haven't reached the maximum limit.
+• returnBook(LibraryBook book): A public method that allows a member to return a book.
+3. Main Method:
+• In your main method, create instances of the LibraryBook and LibraryMember classes. Demonstrate borrowing and returning books, and display the information about books and members.
+Your task is to complete the following files:
+• ./src/main/java/LibrarySystemApp.java
+• ./src/main/java/LibraryBook.java
+• ./src/main/java/LibraryMember.java
+Note:
+• Name the fields and methods exactly as provided above.
+• Define the maxBooksAllowed constant as a protected field in the LibraryMember class.
+Sample output:-
+Book Information:
+Book Title: The Catcher in the Rye
+Author: J.D. Salinger
+Number of Pages: 224
+Borrowed: No
+Member Information:
+Member Name: Alice
+Books Borrowed: 0
+Book borrowed successfully.
+Book borrowed successfully.
+Book borrowed successfully.
+Book borrowed successfully.
+Book borrowed successfully.
+Book borrowed successfully.
+
+Updated Member Information after borrowing:
+Member Name: Alice
+Books Borrowed: 2
+Member Name: Bob
+Books Borrowed: 1
+No books borrowed or the book is not currently borrowed.
+No books borrowed or the book is not currently borrowed.
+
+Updated Member Information after returning:
+Member Name: Alice
+Books Borrowed: 2
+Member Name: Bob
+Books Borrowed: 1
